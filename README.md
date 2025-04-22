@@ -4,7 +4,7 @@ This project includes a simple HTML page that visually lays out the education an
 
 ##  View the Timeline Online
 
-👉 [Click here to view the timeline](https://marky00100.github.io/career-timeline/)
+👉 [Click here to view the timeline](https://marky00100.github.io/timeline/)
 
 ## Files
 
