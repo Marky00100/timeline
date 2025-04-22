@@ -10,7 +10,8 @@ This project includes a simple HTML page that visually lays out the education an
 
 ## How to View
 
-1. Open `timeline.html` in any modern web browser.
+1. Open `timeline.html` in any modern web browser. https://marky00100.github.io/timeline/
+
 2. Scroll through to view career milestones and education background.
 
 ## Contact
